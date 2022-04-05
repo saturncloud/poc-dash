@@ -1,5 +1,5 @@
 {
-  "name": "example-dashboard-dash",
+  "name": "example-dashboard-dash-deployment",
   "image_uri": "public.ecr.aws/saturncloud/saturn:2022.01.06",
   "description": "Deploy a Plotly Dash dashboard to Saturn Cloud.",
   "extra_packages": {
