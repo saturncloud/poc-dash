@@ -22,7 +22,7 @@ app.layout = html.Div(
                 """,
                 ),
             ],
-            style={"padding": 10},
+            style={"padding": 100},
         ),
         html.Div(
             [
